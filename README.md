@@ -40,8 +40,9 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 ---------------
 ## Usage
 
-1. Open Unity and go to the `Window` menu.
-2. Find and select `GameObject Selector` from the menu to open the window.
+1. Open Unity and drag script into `Editor` folder of your Unity project.
+2. Go to the `Window` menu.
+3. Find and select `GameObject Selector` from the menu to open the window.
 ---------------
 ### Select General Objects
 ![select general objects](https://github.com/shauma93/gameobjectselector/assets/141507721/b53b5c26-1922-4280-ab13-1eea32c91d3e)
