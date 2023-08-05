@@ -2,7 +2,7 @@
 ## Explanation and Usage Guide
 ---------------
 <p align="center">
-  <img src="https://github.com/potatojoyful/gameobjectselector/assets/30577083/33bc541e-d86e-43e7-973d-32eb4ad7e724" alt="Image" />
+  <img src="https://github.com/shauma93/gameobjectselector/assets/141507721/6e0d5c2f-b596-44e2-b4a4-592e16689a07" alt="Image" />
 </p>
 
 
@@ -44,22 +44,22 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 2. Find and select `GameObject Selector` from the menu to open the window.
 ---------------
 ### Select General Objects
-![select general objects](https://github.com/potatojoyful/gameobjectselector/assets/30577083/aab26da4-a3d4-42cd-88cd-44cae4ee24f8)
+![select general objects](https://github.com/shauma93/gameobjectselector/assets/141507721/b53b5c26-1922-4280-ab13-1eea32c91d3e)
 
 - Click on one of the buttons in this section to select GameObjects based on the specified criteria.
 ---------------
 ### Select Audio Objects
-![audio objects](https://github.com/potatojoyful/gameobjectselector/assets/30577083/b03743f5-9923-44e0-a8a7-0c6b4c9ca911)
+![audio objects](https://github.com/shauma93/gameobjectselector/assets/141507721/c5f5084a-f5a4-4ad6-8905-d7c8920a4af1)
 
 - Click on one of the buttons in this section to select GameObjects specific to audio components.
 ---------------
 ### Select GameObjects by Effects
-![select gameobjects by effects](https://github.com/potatojoyful/gameobjectselector/assets/30577083/72364dd7-88d6-493a-8b6b-3d321112dbb3)
+![select gameobjects by effects](https://github.com/shauma93/gameobjectselector/assets/141507721/3595d811-719b-4188-8c49-0ed3af58edb2)
 
 - Click on one of the buttons in this section to select GameObjects specific to visual effects components.
 ---------------
 ### Search GameObjects by Name
-![search gameobject by name](https://github.com/potatojoyful/gameobjectselector/assets/30577083/13b3194c-9efe-4044-88c3-6f76a99d70e2)
+![search gameobject by name](https://github.com/shauma93/gameobjectselector/assets/141507721/25de1e8d-8731-4514-8f36-ba51896911e3)
 
 - Enter a search query in the "Search Name" field.
 - Click the "Search" button to find and select GameObjects that match the search query.
@@ -67,13 +67,13 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 > ###### You can use letters, numbers, words, or combinations of them, including a few letters from the beginning of a word, to form your search query.
 ---------------
 ### Search GameObjects by Script
-![search gameobject by script](https://github.com/potatojoyful/gameobjectselector/assets/30577083/a7c2fed8-feaa-4624-b8e8-dfad77517f34)
+![search gameobject by script](https://github.com/shauma93/gameobjectselector/assets/141507721/c9cccff6-4534-4221-b8fd-c74797b81603)
 
 - Drag and drop a script file into the "Drag Script Here" field.
 - Click the "Search" button to find and select GameObjects that contain the specified script.
 ---------------
 ### Search GameObjects by Layer
-![search gameobject by layer](https://github.com/potatojoyful/gameobjectselector/assets/30577083/541b6892-4a44-473d-b3d8-abf191e2624d)
+![search gameobject by layer](https://github.com/shauma93/gameobjectselector/assets/141507721/7faaff0e-42c0-4531-b9c8-b56c3d751172)
 
 - Select a layer from the "Select Layer" dropdown.
 - Click the "Select" button to find and select GameObjects on the chosen layer.
@@ -81,7 +81,7 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 > ###### The layers listed in the layer menu are only those that are currently used in the scene.
 ---------------
 ### Search GameObjects by Component
-![search gameobject by component](https://github.com/potatojoyful/gameobjectselector/assets/30577083/8a135b10-a049-4103-8982-8173d8001835)
+![search gameobject by component](https://github.com/shauma93/gameobjectselector/assets/141507721/b7539bbb-1144-4417-b412-20e866fa80d6)
 
 - Select a component from the "Select Component" dropdown menu.
 - Click the "Select" button to find and select GameObjects that contain the chosen component.
@@ -89,20 +89,20 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 > ###### The Components listed in the component menu are only those that are currently used in the scene.
 ---------------
 ### Create Empty Object and Move Selection
-![create empty and move selection](https://github.com/potatojoyful/gameobjectselector/assets/30577083/7722bc43-444d-44a7-b031-6883a759f7d8)
+![create empty and move selection](https://github.com/shauma93/gameobjectselector/assets/141507721/419deef6-3d7a-4628-a4d7-ef7f4cc71c4b)
 
 - Enter a name for the empty GameObject in the "Empty Object Name" field.
 - Click the "Create Empty and Move" button to create the empty GameObject and move selected objects inside it.
 ---------------
 ### Move Selected Objects to Existing GameObject
-![move selected into existing gameobject](https://github.com/potatojoyful/gameobjectselector/assets/30577083/b4b9ce9c-e01c-4309-8681-3e722050346e)
+![move selected into existing gameobject](https://github.com/shauma93/gameobjectselector/assets/141507721/f11b95dc-293c-40cd-8f63-2c885ae3ff57)
 
 - Drag and drop an existing GameObject into the "Drag GameObject Here" field.
 - Select the GameObjects you want to move.
 - Click the "Move Selected GameObjects" button to move the selected GameObjects to the target GameObject.
 ---------------
 ### Options
-![options](https://github.com/potatojoyful/gameobjectselector/assets/30577083/0e0dfa6c-e6ff-4c94-bea1-364656cd583c)
+![options](https://github.com/shauma93/gameobjectselector/assets/141507721/8064b1e0-2fce-4b1a-807e-a6a72b4df6cb)
 
 - Check/uncheck the options as needed:
   - **Hide GameObjects in Hierarchy:** Hides unselected GameObjects in the Hierarchy view.
