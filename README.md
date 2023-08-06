@@ -40,7 +40,7 @@ The **GameObjectSelector** script is a versatile and user-friendly editor window
 ---------------
 ## Usage
 
-*Working in Unity 2022.3.5f1
+*Working in Unity 2022.3.5f1 and 2021.
 1. Open Unity and drag script into `Editor` folder of your Unity project.
 2. Go to the `Window` menu.
 3. Find and select `GameObject Selector` from the menu to open the window.
